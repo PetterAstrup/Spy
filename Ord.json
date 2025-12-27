@@ -1,0 +1,598 @@
+{
+  "categories": {
+    "Mørk Humor": [
+      {
+        "word": "Begravelse",
+        "hint": "Der man endelig får ro"
+      },
+      {
+        "word": "Kreft",
+        "hint": "Vinner nesten alltid til slutt"
+      },
+      {
+        "word": "Selvmord",
+        "hint": "Den ultimate 'jeg gir opp'-knappen"
+      },
+      {
+        "word": "Død",
+        "hint": "Livets eneste garanti"
+      },
+      {
+        "word": "Lik",
+        "hint": "Har ikke lenger meninger"
+      },
+      {
+        "word": "Kiste",
+        "hint": "Den dyreste sengen du noen gang kjøper"
+      },
+      {
+        "word": "Obduksjon",
+        "hint": "Åpne opp for å se hva som egentlig skjedde"
+      },
+      {
+        "word": "Kremering",
+        "hint": "Miljøvennlig måte å bli aske på"
+      },
+      {
+        "word": "Enke",
+        "hint": "Får plutselig hele garderoben"
+      },
+      {
+        "word": "Foreldreløs",
+        "hint": "Starter livet med discount"
+      },
+      {
+        "word": "Abort",
+        "hint": "Den raskeste formen for prevensjon"
+      },
+      {
+        "word": "Selvmordsbomber",
+        "hint": "Har aldri problemer med returfly"
+      },
+      {
+        "word": "Gisseltaker",
+        "hint": "Den eneste som virkelig bryr seg om forhandlinger"
+      },
+      {
+        "word": "Seriemorder",
+        "hint": "Har en veldig personlig LinkedIn-profil"
+      },
+      {
+        "word": "Tortur",
+        "hint": "Når 'snakk nå' faktisk fungerer"
+      },
+      {
+        "word": "Drap",
+        "hint": "Den mest permanente løsningen på et problem"
+      },
+      {
+        "word": "Selvmordsvest",
+        "hint": "Den ultimate 'jeg går først'-accessoiren"
+      },
+      {
+        "word": "Pest",
+        "hint": "Gammeldags måte å tynne ut befolkningen på"
+      },
+      {
+        "word": "Hungersnød",
+        "hint": "Når alle deler på likt"
+      },
+      {
+        "word": "Konsentrasjonsleir",
+        "hint": "Ferie med veldig strenge regler"
+      },
+      {
+        "word": "Guillotine",
+        "hint": "Rask hårklippning uten refusjon"
+      },
+      {
+        "word": "Eutanasi",
+        "hint": "Når veterinæren også hjelper besteforeldre"
+      },
+      {
+        "word": "Misdannelse",
+        "hint": "Når ultralydbildet blir veldig stille"
+      },
+      {
+        "word": "Dødsfall",
+        "hint": "Statistikkens favorittbegivenhet"
+      },
+      {
+        "word": "Massegrav",
+        "hint": "Gruppespa uten booking"
+      },
+      {
+        "word": "Zombier",
+        "hint": "De eneste som fortsatt kommer på jobb døde"
+      },
+      {
+        "word": "Apokalypse",
+        "hint": "Når mandag føles lett i forhold"
+      },
+      {
+        "word": "Kannibal",
+        "hint": "Har en veldig lokal diett"
+      },
+      {
+        "word": "Nekrofili",
+        "hint": "Foretrekker partner som ikke krangler tilbake"
+      },
+      {
+        "word": "Dødsstraff",
+        "hint": "Den ultimate 'du får ikke prøve igjen'"
+      },
+      {
+        "word": "Katastrofe",
+        "hint": "Når nyhetene får ekstra spennende musikk"
+      },
+      {
+        "word": "Sykdom",
+        "hint": "Kroppens måte å si 'slapp av' på"
+      },
+      {
+        "word": "Amputasjon",
+        "hint": "Permanent high-five-løsning"
+      },
+      {
+        "word": "Organdonor",
+        "hint": "Når du deler mer enn bare på sosiale medier"
+      },
+      {
+        "word": "Svartedauden",
+        "hint": "Medeltidens influensa"
+      },
+      {
+        "word": "Koma",
+        "hint": "Den lengste power-nappen"
+      },
+      {
+        "word": "Obduksjonsrapport",
+        "hint": "Spoiler-alert for livet ditt"
+      },
+      {
+        "word": "Selvskading",
+        "hint": "Når indre smerte trenger ytre bevis"
+      },
+      {
+        "word": "Dødsleie",
+        "hint": "Siste sjanse til å si unnskyld"
+      },
+      {
+        "word": "Mordgåte",
+        "hint": "Når alle har alibi unntatt én"
+      },
+      {
+        "word": "Patolog",
+        "hint": "Jobber med de mest stille kundene"
+      },
+      {
+        "word": "Dødbringende",
+        "hint": "Det motsatte av livsfarlig"
+      },
+      {
+        "word": "Sorg",
+        "hint": "Følelsen som aldri får ferie"
+      },
+      {
+        "word": "Krematorium",
+        "hint": "Norges varmeste arbeidsplass"
+      },
+      {
+        "word": "Likskjending",
+        "hint": "Når selv de døde får problemer"
+      },
+      {
+        "word": "Terminal",
+        "hint": "Når diagnosen kommer med en nedtellingsklokke"
+      },
+      {
+        "word": "Massakre",
+        "hint": "Når noen tar 'rydde opp' litt for bokstavelig"
+      },
+      {
+        "word": "Drapssak",
+        "hint": "Den ultimate whodunit"
+      },
+      {
+        "word": "Begravelsesbyrå",
+        "hint": "Selger deg den siste reisen"
+      },
+      {
+        "word": "Katafalk",
+        "hint": "Den fineste rullegardinen for kisten"
+      }
+    ],
+    "Jul": [
+      {
+        "word": "Julekule",
+        "hint": "Rund og lett knusbar"
+      },
+      {
+        "word": "Nisse",
+        "hint": "Liten, rød og stjeler sokker"
+      },
+      {
+        "word": "Gløgg",
+        "hint": "Varm drikke som lukter jul og alkohol"
+      },
+      {
+        "word": "Pepperkake",
+        "hint": "Kake som smaker bedre enn den ser ut"
+      },
+      {
+        "word": "Julegris",
+        "hint": "Den eneste grisen som gleder seg til jul"
+      },
+      {
+        "word": "Julepynt",
+        "hint": "Ting som faller ned hvert år"
+      },
+      {
+        "word": "Ribbe",
+        "hint": "Fettete og verdt all kritikken"
+      },
+      {
+        "word": "Pinnekjøtt",
+        "hint": "Saltet og fortsatt saltet"
+      },
+      {
+        "word": "Lutefisk",
+        "hint": "Geléaktig fiskemysterium"
+      },
+      {
+        "word": "Julemusikk",
+        "hint": "Låter du hater fra 1. desember"
+      },
+      {
+        "word": "Julelys",
+        "hint": "Blir aldri nok av dem"
+      },
+      {
+        "word": "Julekort",
+        "hint": "Brev du sender for å vise du lever"
+      },
+      {
+        "word": "Julenisse",
+        "hint": "Har ekstremt dårlig hukommelse"
+      },
+      {
+        "word": "Julepresang",
+        "hint": "Noe du pakker inn selv om du hater det"
+      },
+      {
+        "word": "Adventskrans",
+        "hint": "Brannfare med grener"
+      },
+      {
+        "word": "Julehefte",
+        "hint": "Tegneserier for voksne barn"
+      },
+      {
+        "word": "Julekake",
+        "hint": "Den som alltid blir stående igjen"
+      },
+      {
+        "word": "Julemandel",
+        "hint": "Liten risrisiko"
+      },
+      {
+        "word": "Julegodteri",
+        "hint": "Hvorfor vi går opp 3 kg"
+      },
+      {
+        "word": "Julefred",
+        "hint": "Varer til ca. 24. desember kl. 17"
+      },
+      {
+        "word": "Advent",
+        "hint": "Fire søndager med stigende stress"
+      },
+      {
+        "word": "Julekalender",
+        "hint": "24 små skuffelser"
+      },
+      {
+        "word": "Snø",
+        "hint": "Hvit og våt overraskelse"
+      },
+      {
+        "word": "Juletrær",
+        "hint": "Dødt tre som pyntes inne"
+      },
+      {
+        "word": "Englepels",
+        "hint": "Den ekle hvite massen på toppen"
+      },
+      {
+        "word": "Juleknall",
+        "hint": "Når noen kjøper for mye"
+      },
+      {
+        "word": "Juleselskap",
+        "hint": "Når familien møtes og later som"
+      },
+      {
+        "word": "Gavepapir",
+        "hint": "Blir revet i filler uansett pris"
+      },
+      {
+        "word": "Julestemning",
+        "hint": "Følelsen som koster 8000 kr"
+      },
+      {
+        "word": "Julemat",
+        "hint": "Alt som er tungt og brunt"
+      },
+      {
+        "word": "Juleøl",
+        "hint": "Den eneste ølen som har jula i navnet"
+      },
+      {
+        "word": "Nissedress",
+        "hint": "Rød heldress med bjelle"
+      },
+      {
+        "word": "Julesanger",
+        "hint": "Låter du bare tåler én gang i året"
+      },
+      {
+        "word": "Julemarked",
+        "hint": "Overpriset håndverk og gløgg"
+      },
+      {
+        "word": "Julevindu",
+        "hint": "Butikker som prøver hardest"
+      },
+      {
+        "word": "Julepynting",
+        "hint": "Å henge opp ting som faller ned"
+      },
+      {
+        "word": "Julepresangstress",
+        "hint": "Når du fortsatt ikke vet 23. desember"
+      },
+      {
+        "word": "Juleribbe",
+        "hint": "Sprø skorpe eller dødsdom"
+      },
+      {
+        "word": "Julekonsert",
+        "hint": "Når korpset øver i stua"
+      },
+      {
+        "word": "Juleevangeliet",
+        "hint": "Den delen ingen gidder høre lenger"
+      },
+      {
+        "word": "Julekurv",
+        "hint": "Når sjefen gir deg mat i stedet for penger"
+      },
+      {
+        "word": "Julefrokost",
+        "hint": "Restene fra i går kveld"
+      },
+      {
+        "word": "Julebad",
+        "hint": "Når du må dusje før gjestene kommer"
+      },
+      {
+        "word": "Juleklær",
+        "hint": "Genser med rein som blinker"
+      },
+      {
+        "word": "Julefilm",
+        "hint": "Samme historie, nytt år"
+      },
+      {
+        "word": "Juleappelsin",
+        "hint": "Den som alltid blir liggende"
+      },
+      {
+        "word": "Julekrem",
+        "hint": "Fløyte som blir til smør"
+      },
+      {
+        "word": "Julekrydder",
+        "hint": "Kanel, nellik og desperasjon"
+      }
+    ],
+    "Idrett": [
+      {
+        "word": "Fotball",
+        "hint": "22 folk som jager en ball"
+      },
+      {
+        "word": "Håndball",
+        "hint": "Fotball med hender og klapping"
+      },
+      {
+        "word": "Langrenn",
+        "hint": "Gå på ski og hate deg selv"
+      },
+      {
+        "word": "Hopp",
+        "hint": "Fly litt, land hardt"
+      },
+      {
+        "word": "Svømming",
+        "hint": "Vær våt og rask samtidig"
+      },
+      {
+        "word": "Turn",
+        "hint": "Ser ut som sirkus, men teller poeng"
+      },
+      {
+        "word": "Friidrett",
+        "hint": "Løpe, hoppe eller kaste noe"
+      },
+      {
+        "word": "Håndballmål",
+        "hint": "Nesten alltid for lite"
+      },
+      {
+        "word": "Straffespark",
+        "hint": "11 meter med press"
+      },
+      {
+        "word": "Offside",
+        "hint": "Regelen ingen helt forstår"
+      },
+      {
+        "word": "Frispark",
+        "hint": "Mur og håp"
+      },
+      {
+        "word": "Keeper",
+        "hint": "Den eneste som får bruke hender"
+      },
+      {
+        "word": "Skiskyting",
+        "hint": "Skyt når du er utslitt"
+      },
+      {
+        "word": "Curling",
+        "hint": "Kost og is og roping"
+      },
+      {
+        "word": "Ishockey",
+        "hint": "Slåssing på skøyter"
+      },
+      {
+        "word": "Basketball",
+        "hint": "Kast ball i kurv, gjenta"
+      },
+      {
+        "word": "Tennis",
+        "hint": "Slå ball over nett, rope sorry"
+      },
+      {
+        "word": "Bordtennis",
+        "hint": "Rask ping-pong med sinne"
+      },
+      {
+        "word": "Volleyball",
+        "hint": "Slå ball ned, rope 'mine!'"
+      },
+      {
+        "word": "Bryting",
+        "hint": "Klemme en venn til han gir opp"
+      },
+      {
+        "word": "Sykkelritt",
+        "hint": "Sitte lenge og lide"
+      },
+      {
+        "word": "Maraton",
+        "hint": "Løpe til du angre"
+      },
+      {
+        "word": "Kampsport",
+        "hint": "Slå hverandre med regler"
+      },
+      {
+        "word": "Golf",
+        "hint": "Ødelegge naturen elegant"
+      },
+      {
+        "word": "Formel 1",
+        "hint": "Kjøre fort og svinge til høyre"
+      },
+      {
+        "word": "Orientering",
+        "hint": "Løpe vill i skogen med kart"
+      },
+      {
+        "word": "Padling",
+        "hint": "Våte armer og våte bein"
+      },
+      {
+        "word": "Triathlon",
+        "hint": "Svømme, sykle, løpe – hvorfor?"
+      },
+      {
+        "word": "Håndballturnering",
+        "hint": "Mye svette og lite søvn"
+      },
+      {
+        "word": "Straffekonk",
+        "hint": "Når keeper blir helt"
+      },
+      {
+        "word": "Corner",
+        "hint": "90 grader med falskt håp"
+      },
+      {
+        "word": "Rødt kort",
+        "hint": "Gå hjem tidlig"
+      },
+      {
+        "word": "Gult kort",
+        "hint": "Advarsel om at du er dum"
+      },
+      {
+        "word": "Doping",
+        "hint": "Kjemisk snarvei til andreplass"
+      },
+      {
+        "word": "Rekord",
+        "hint": "Noe som blir slått neste år"
+      },
+      {
+        "word": "Medalje",
+        "hint": "Metall rundt halsen på vinneren"
+      },
+      {
+        "word": "Dommer",
+        "hint": "Alle hater ham like mye"
+      },
+      {
+        "word": "Heiagjeng",
+        "hint": "Roper ting de ikke mener"
+      },
+      {
+        "word": "Stafett",
+        "hint": "Gi pinnen videre før du dør"
+      },
+      {
+        "word": "Diskvalifisert",
+        "hint": "Når du jukser for godt"
+      },
+      {
+        "word": "Comeback",
+        "hint": "Tapende til seirende på 10 minutter"
+      },
+      {
+        "word": "Skade",
+        "hint": "Når kroppen sier stopp"
+      },
+      {
+        "word": "Oppvarming",
+        "hint": "Gjøre deg klar til å lide"
+      },
+      {
+        "word": "Nedtur",
+        "hint": "Når formen forsvinner"
+      },
+      {
+        "word": "Treningsleir",
+        "hint": "Ferie med smerte"
+      },
+      {
+        "word": "Sponsor",
+        "hint": "Betaler for at du skal vinne"
+      },
+      {
+        "word": "Podium",
+        "hint": "Trapp for de beste"
+      },
+      {
+        "word": "Rekkevidde",
+        "hint": "Hvor langt du kan kaste noe"
+      },
+      {
+        "word": "Slalåm",
+        "hint": "Sikksakk nedover i høy fart"
+      }
+    ]
+  }
+}
